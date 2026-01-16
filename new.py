@@ -18,3 +18,5 @@ key = "sk-proj-30aUZFVfvDZ1vP6Dv_9y3Wwsedrtyhjf;gdlhwaerhjgkhjlewrthjk;ilkjfdhsy
 AUTOGEN_MODEL_TYPE="openai"
 DEVOPS_MCP_SERVER_URL="http://127.0.0.1:8012/devops/mcp"
 SECSCAN_MCP_SERVER_URL="http://127.0.0.1:8080/secops/mcp"
+REDACTED_SECRET
+REDACTED_SECRET
