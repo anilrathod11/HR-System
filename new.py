@@ -18,3 +18,5 @@ key = "sk-proj-30aUZFVfvDZ1vP6Dv_9y3Wwsedrtyhjf;gdlhwaerhjgkhjlewrthjk;ilkjfdhsy
 AUTOGEN_MODEL_TYPE="openai"
 DEVOPS_MCP_SERVER_URL="http://127.0.0.1:8012/devops/mcp"
 SECSCAN_MCP_SERVER_URL="http://127.0.0.1:8080/secops/mcp"
+gremline_token = "f02868098b13e4f68da82b0c5e5c950ea750fce53c62d982cdab0c61099e5f98"
+token = "56ec3fe6-b3b0-11e9-ba37-0242d2302cf2"
