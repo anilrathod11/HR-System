@@ -8,3 +8,5 @@ a = "BoBHCFssTZpUvt2m10pCJOUbEM0d7NGX1X9z9soCmylRUXdLu4dZJQQJ99BHACAAAAAxJCnnAAA
 new = "squ_04d9fe15f80cbbeee316bbf0c0ad5d7997657336"
 
 squ_04d9fe15f80cbbeee316bbf2c0ad5d7997657336
+
+"this is secret squ_04d9fe15f80cbbeee316bbf5c0ad5d7997657336"
